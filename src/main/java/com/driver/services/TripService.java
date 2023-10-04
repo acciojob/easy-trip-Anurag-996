@@ -1,6 +1,6 @@
 package com.driver.services;
 
-import com.driver.Repository.TripRepository;
+import com.driver.repository.TripRepository;
 import com.driver.model.Airport;
 import com.driver.model.City;
 import com.driver.model.Flight;
